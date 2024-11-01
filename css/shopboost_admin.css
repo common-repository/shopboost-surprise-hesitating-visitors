@@ -1,0 +1,25 @@
+span.title {
+	font-size:16px;
+	font-weight:600;
+	margin-bottom:20px;
+}
+span.little {
+	font-size:12px;
+}
+.form-table {
+	width:auto;
+}
+
+.form-table tr {
+	margin-bottom: 10px;
+}
+
+.form-table th {
+	width: 400px;
+	font-weight: 600;
+}
+
+.shopboost_header {
+	width:200px;
+	height: auto;
+}
